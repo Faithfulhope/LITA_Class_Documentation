@@ -4,6 +4,17 @@
 
 ### Introduction
 
+
+[Tools used in the class](#tools-used-in-the-class)
+
+Data Cleaning and Preparations
+
+Explorative data analysis
+
+Data Analysis
+
+[Data Visualization](#data-visualization)
+
 ---
 1. Change dates and print labels
 2. Verify raw materials and record usage
@@ -47,3 +58,7 @@ WHERE CONDITION = TRUE
 
 ### Data Visualization
 
+|heading 1|heading 2|heading 3|
+|---------|---------|---------|
+|table 1|table 2|table 3|
+------- ------ -------
